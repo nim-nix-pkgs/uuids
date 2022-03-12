@@ -35,11 +35,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1647061392,
-        "narHash": "sha256-LSkyHCvVktt21Poly3aKHdpNyA0x11FCTTssMHP+fR0=",
+        "lastModified": 1647113481,
+        "narHash": "sha256-OP2m1h8EnJTDQNxPjtxd5EFIFla6no0P0Gwho4QOqIs=",
         "owner": "nim-nix-pkgs",
         "repo": "isaac",
-        "rev": "d56238140396911693f9decd469245bee0fde5cc",
+        "rev": "cab7e88a49e56ec1cb65318f9d7a430ed5afac2b",
         "type": "github"
       },
       "original": {
@@ -62,13 +62,20 @@
         "src-isaac-master": "src-isaac-master"
       },
       "locked": {
-        "narHash": "sha256-0ahtlWfnUfqkTa+GAww4BOEPliM4E1yOM4Yt0LmRNJs=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647113481,
+        "narHash": "sha256-OP2m1h8EnJTDQNxPjtxd5EFIFla6no0P0Gwho4QOqIs=",
+        "owner": "nim-nix-pkgs",
+        "repo": "isaac",
+        "rev": "cab7e88a49e56ec1cb65318f9d7a430ed5afac2b",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "isaac",
+        "type": "github"
       }
     },
     "isaac-v0_1_1": {
@@ -84,13 +91,20 @@
         "src-isaac-v0_1_1": "src-isaac-v0_1_1"
       },
       "locked": {
-        "narHash": "sha256-rwCUzFm3u1hVSSjxCmFx19/luO9PNdMOat1ABnXoI0s=",
-        "path": "./v0_1_1",
-        "type": "path"
+        "dir": "v0_1_1",
+        "lastModified": 1647113481,
+        "narHash": "sha256-OP2m1h8EnJTDQNxPjtxd5EFIFla6no0P0Gwho4QOqIs=",
+        "owner": "nim-nix-pkgs",
+        "repo": "isaac",
+        "rev": "cab7e88a49e56ec1cb65318f9d7a430ed5afac2b",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_1",
-        "type": "path"
+        "dir": "v0_1_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "isaac",
+        "type": "github"
       }
     },
     "isaac-v0_1_2": {
@@ -106,13 +120,20 @@
         "src-isaac-v0_1_2": "src-isaac-v0_1_2"
       },
       "locked": {
-        "narHash": "sha256-4wL+I+6vpgUqTjn3epspe92cGiCBEXS+nU38dmEV6uE=",
-        "path": "./v0_1_2",
-        "type": "path"
+        "dir": "v0_1_2",
+        "lastModified": 1647113481,
+        "narHash": "sha256-OP2m1h8EnJTDQNxPjtxd5EFIFla6no0P0Gwho4QOqIs=",
+        "owner": "nim-nix-pkgs",
+        "repo": "isaac",
+        "rev": "cab7e88a49e56ec1cb65318f9d7a430ed5afac2b",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_2",
-        "type": "path"
+        "dir": "v0_1_2",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "isaac",
+        "type": "github"
       }
     },
     "isaac-v0_1_3": {
@@ -128,13 +149,20 @@
         "src-isaac-v0_1_3": "src-isaac-v0_1_3"
       },
       "locked": {
-        "narHash": "sha256-KmFv1F0jth9hGewjtz6W4PhrOX43XzrDkLbTr2x7Yzk=",
-        "path": "./v0_1_3",
-        "type": "path"
+        "dir": "v0_1_3",
+        "lastModified": 1647113481,
+        "narHash": "sha256-OP2m1h8EnJTDQNxPjtxd5EFIFla6no0P0Gwho4QOqIs=",
+        "owner": "nim-nix-pkgs",
+        "repo": "isaac",
+        "rev": "cab7e88a49e56ec1cb65318f9d7a430ed5afac2b",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_3",
-        "type": "path"
+        "dir": "v0_1_3",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "isaac",
+        "type": "github"
       }
     },
     "nixpkgs": {
