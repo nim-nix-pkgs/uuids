@@ -1,5 +1,5 @@
 {
-  description = ''UUID library for Nim'';
+  description = ''UUID library'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,13 +9,14 @@
   
   inputs.src-uuids-v0_1_8.flake = false;
   inputs.src-uuids-v0_1_8.owner = "pragmagic";
-  inputs.src-uuids-v0_1_8.ref   = "refs/tags/v0.1.8";
+  inputs.src-uuids-v0_1_8.ref   = "v0_1_8";
   inputs.src-uuids-v0_1_8.repo  = "uuids";
   inputs.src-uuids-v0_1_8.type  = "github";
   
   inputs."isaac".owner = "nim-nix-pkgs";
   inputs."isaac".ref   = "master";
   inputs."isaac".repo  = "isaac";
+  inputs."isaac".dir   = "v0_1_3";
   inputs."isaac".type  = "github";
   inputs."isaac".inputs.nixpkgs.follows = "nixpkgs";
   inputs."isaac".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
